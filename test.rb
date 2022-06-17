@@ -1,2 +1,2 @@
-p "poring"
-p 'zora'
+a = [3]
+p a.singleton_class.ancestors
